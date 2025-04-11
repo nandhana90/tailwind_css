@@ -17,6 +17,7 @@ module.exports = {
        text:'#FFFFFF',
        bagc:'#CBC3E3',
        liv:'#CF9FFF',
+       black:'#000000',
     },
     
   },
